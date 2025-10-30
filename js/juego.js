@@ -61,30 +61,3 @@ else{
 
 
 
-
-
-
-
-
-
-
-
-// let userElement= prompt("Bienvenido al juego de Piedra, Papel o Tijera \n \n Elija una opción: \n 0: Piedra \n 1: Papel \n 2: Tijera\n");
-
-
-// console.log("Elementos disponibles:"+ elementos);
-// console.log("Elección de la computadora: " + elementos[numero]);
-// console.log("Elección del usuario: " + elementos[userElement]);
-
-
-
-
-// let valor = parseInt(0.9*3);
-// let palabra = "hola" ;
-// console.log("Valor inicial:", valor);
-
-// console.log("Número inicial:", numero);
-// console.log("Palabra inicial:", palabra);
-// function cambiarValor(){
-//     Math.random();
-// }
